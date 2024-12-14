@@ -1,0 +1,4 @@
+REQUIREMENTS:
+streamlit
+openai
+pandas
